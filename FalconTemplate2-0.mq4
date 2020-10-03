@@ -1,10 +1,10 @@
 //+------------------------------------------------------------------+
 //|                                          Falcon EA Template v2.0
-//|                                        Copyright 2015,Lucas Liew 
-//|                                  lucas@blackalgotechnologies.com 
+//|                                        Copyright 2020, HL
+//|                                  hector.longarte@gmail.com 
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2015, Black Algo Technologies Pte Ltd"
-#property link      "lucas@blackalgotechnologies.com"
+#property copyright "Copyright 2020, Black Algo Technologies Pte Ltd"
+#property link      "hector.longarte@gmail.com"
 
 /* 
 
