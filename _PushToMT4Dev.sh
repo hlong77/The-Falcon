@@ -1,7 +1,0 @@
-# Script to Sync Files from Development Terminal to Version Control
-
-# cd to directory where Version Control Repository is located
-cd ~/MT4TradingRepo/The-Falcon/
-
-# Copy files with *.mq4 extension into Directory where DEV Expert Advisors are located
-cp *mq4 ~/Desktop/DEV/DEV.app/Contents/Resources/drive_c/Program\ Files/Pepperstone/MQL4/Experts/The-Falcon/
